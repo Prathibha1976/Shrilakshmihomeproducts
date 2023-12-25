@@ -156,3 +156,10 @@ height: 120px;
     border-radius: 50%;
     box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.9);
   }
+  .rk6{
+    background-color: #553d67;
+    width: 500px;
+    margin: auto;
+    height: 680px;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.9);
+  }
